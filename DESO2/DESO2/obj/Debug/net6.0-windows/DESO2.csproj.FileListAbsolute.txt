@@ -1,0 +1,16 @@
+D:\laptrinhwindow\DESO2\DESO2\bin\Debug\net6.0-windows\DESO2.exe
+D:\laptrinhwindow\DESO2\DESO2\bin\Debug\net6.0-windows\DESO2.deps.json
+D:\laptrinhwindow\DESO2\DESO2\bin\Debug\net6.0-windows\DESO2.runtimeconfig.json
+D:\laptrinhwindow\DESO2\DESO2\bin\Debug\net6.0-windows\DESO2.dll
+D:\laptrinhwindow\DESO2\DESO2\bin\Debug\net6.0-windows\DESO2.pdb
+D:\laptrinhwindow\DESO2\DESO2\obj\Debug\net6.0-windows\DESO2.Form1.resources
+D:\laptrinhwindow\DESO2\DESO2\obj\Debug\net6.0-windows\DESO2.csproj.GenerateResource.cache
+D:\laptrinhwindow\DESO2\DESO2\obj\Debug\net6.0-windows\DESO2.GeneratedMSBuildEditorConfig.editorconfig
+D:\laptrinhwindow\DESO2\DESO2\obj\Debug\net6.0-windows\DESO2.AssemblyInfoInputs.cache
+D:\laptrinhwindow\DESO2\DESO2\obj\Debug\net6.0-windows\DESO2.AssemblyInfo.cs
+D:\laptrinhwindow\DESO2\DESO2\obj\Debug\net6.0-windows\DESO2.csproj.CoreCompileInputs.cache
+D:\laptrinhwindow\DESO2\DESO2\obj\Debug\net6.0-windows\DESO2.dll
+D:\laptrinhwindow\DESO2\DESO2\obj\Debug\net6.0-windows\refint\DESO2.dll
+D:\laptrinhwindow\DESO2\DESO2\obj\Debug\net6.0-windows\DESO2.pdb
+D:\laptrinhwindow\DESO2\DESO2\obj\Debug\net6.0-windows\DESO2.genruntimeconfig.cache
+D:\laptrinhwindow\DESO2\DESO2\obj\Debug\net6.0-windows\ref\DESO2.dll
